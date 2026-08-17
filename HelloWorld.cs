@@ -7,7 +7,7 @@ public class NewBehaviourScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        //Вывод в консоль приветствия миру
+        //Р’С‹РІРѕРґ РІ РєРѕРЅСЃРѕР»СЊ РїСЂРёРІРµС‚СЃС‚РІРёСЏ РјРёСЂСѓ
         print("Hello World!");
     }
 
